@@ -1,0 +1,241 @@
+url: https://apilist.tronscan.org/api/account?address=TSrC6orpPbfFXdRH9nRPLQ8T6XaLxmV87W
+
+{
+    "trc20token_balances": [
+        {
+            "tokenId": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "balance": "1999000",
+            "tokenName": "Tether USD",
+            "tokenAbbr": "USDT",
+            "tokenDecimal": 6,
+            "tokenCanShow": 1,
+            "tokenType": "trc20",
+            "tokenLogo": "https://static.tronscan.org/production/logo/usdtlogo.png",
+            "vip": true,
+            "tokenPriceInTrx": 16.071628241015605366,
+            "amount": 32.127184853790195126634,
+            "nrOfTokenHolders": 16426791,
+            "transferCount": 639350205
+        }
+    ],
+    "transactions_out": 10,
+    "acquiredDelegateFrozenForBandWidth": 0,
+    "rewardNum": 0,
+    "ownerPermission": {
+        "keys": [
+            {
+                "address": "TSrC6orpPbfFXdRH9nRPLQ8T6XaLxmV87W",
+                "weight": 1
+            }
+        ],
+        "threshold": 1,
+        "permission_name": "owner"
+    },
+    "tokenBalances": [
+        {
+            "amount": "14.414651",
+            "tokenPriceInTrx": 1,
+            "tokenId": "_",
+            "balance": "14414651",
+            "tokenName": "trx",
+            "tokenDecimal": 6,
+            "tokenAbbr": "trx",
+            "tokenCanShow": 1,
+            "tokenType": "trc10",
+            "vip": false,
+            "tokenLogo": "https://static.tronscan.org/production/logo/trx.png"
+        },
+        {
+            "tokenId": "1004115",
+            "tokenName": "Eocio",
+            "owner_address": "TE1asGcdHYFuF5DFa3ENhQLpnBZunu4DSQ",
+            "tokenAbbr": "EOC",
+            "tokenCanShow": 1,
+            "transferCount": 199216,
+            "tokenLogo": "https://static.tronscan.org/production/upload/logo/1004115.png",
+            "nrOfTokenHolders": 185943,
+            "balance": "388000000",
+            "tokenDecimal": 6,
+            "tokenType": "trc10",
+            "vip": false
+        }
+    ],
+    "delegateFrozenForEnergy": 0,
+    "balances": [
+        {
+            "amount": "14.414651",
+            "tokenPriceInTrx": 1,
+            "tokenId": "_",
+            "balance": "14414651",
+            "tokenName": "trx",
+            "tokenDecimal": 6,
+            "tokenAbbr": "trx",
+            "tokenCanShow": 1,
+            "tokenType": "trc10",
+            "vip": false,
+            "tokenLogo": "https://static.tronscan.org/production/logo/trx.png"
+        },
+        {
+            "tokenId": "1004115",
+            "tokenName": "Eocio",
+            "owner_address": "TE1asGcdHYFuF5DFa3ENhQLpnBZunu4DSQ",
+            "tokenAbbr": "EOC",
+            "tokenCanShow": 1,
+            "transferCount": 199216,
+            "tokenLogo": "https://static.tronscan.org/production/upload/logo/1004115.png",
+            "nrOfTokenHolders": 185943,
+            "balance": "388000000",
+            "tokenDecimal": 6,
+            "tokenType": "trc10",
+            "vip": false
+        }
+    ],
+    "trc721token_balances": [],
+    "balance": 14414651,
+    "voteTotal": 0,
+    "totalFrozen": 0,
+    "tokens": [
+        {
+            "amount": "14.414651",
+            "tokenPriceInTrx": 1,
+            "tokenId": "_",
+            "balance": "14414651",
+            "tokenName": "trx",
+            "tokenDecimal": 6,
+            "tokenAbbr": "trx",
+            "tokenCanShow": 1,
+            "tokenType": "trc10",
+            "vip": false,
+            "tokenLogo": "https://static.tronscan.org/production/logo/trx.png"
+        },
+        {
+            "tokenId": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "balance": "1999000",
+            "tokenName": "Tether USD",
+            "tokenAbbr": "USDT",
+            "tokenDecimal": 6,
+            "tokenCanShow": 1,
+            "tokenType": "trc20",
+            "tokenLogo": "https://static.tronscan.org/production/logo/usdtlogo.png",
+            "vip": true,
+            "tokenPriceInTrx": 16.071628241015605366,
+            "amount": 32.127184853790195126634,
+            "nrOfTokenHolders": 16426791,
+            "transferCount": 639350205
+        },
+        {
+            "tokenId": "1004115",
+            "tokenName": "Eocio",
+            "owner_address": "TE1asGcdHYFuF5DFa3ENhQLpnBZunu4DSQ",
+            "tokenAbbr": "EOC",
+            "tokenCanShow": 1,
+            "transferCount": 199216,
+            "tokenLogo": "https://static.tronscan.org/production/upload/logo/1004115.png",
+            "nrOfTokenHolders": 185943,
+            "balance": "388000000",
+            "tokenDecimal": 6,
+            "tokenType": "trc10",
+            "vip": false
+        }
+    ],
+    "delegated": {},
+    "transactions_in": 27,
+    "totalTransactionCount": 40,
+    "representative": {
+        "lastWithDrawTime": 0,
+        "allowance": 0,
+        "enabled": false,
+        "url": ""
+    },
+    "frozenForBandWidth": 0,
+    "reward": 1,
+    "addressTagLogo": "",
+    "allowExchange": [],
+    "address": "TSrC6orpPbfFXdRH9nRPLQ8T6XaLxmV87W",
+    "frozen_supply": [],
+    "bandwidth": {
+        "energyRemaining": 0,
+        "totalEnergyLimit": 90000000000,
+        "totalEnergyWeight": 3321485823,
+        "netUsed": 0,
+        "storageLimit": 0,
+        "storagePercentage": 0,
+        "assets": {
+            "1004115": {
+                "netPercentage": 0,
+                "netLimit": 0,
+                "netRemaining": 0,
+                "netUsed": 0
+            },
+            "1004698": {
+                "netPercentage": 0,
+                "netLimit": 0,
+                "netRemaining": 0,
+                "netUsed": 0
+            },
+            "1004705": {
+                "netPercentage": 0,
+                "netLimit": 0,
+                "netRemaining": 0,
+                "netUsed": 0
+            },
+            "1004708": {
+                "netPercentage": 0,
+                "netLimit": 0,
+                "netRemaining": 0,
+                "netUsed": 0
+            },
+            "1004880": {
+                "netPercentage": 0,
+                "netLimit": 0,
+                "netRemaining": 0,
+                "netUsed": 0
+            }
+        },
+        "netPercentage": 0,
+        "storageUsed": 0,
+        "storageRemaining": 0,
+        "freeNetLimit": 1500,
+        "energyUsed": 0,
+        "freeNetRemaining": 1242,
+        "netLimit": 0,
+        "netRemaining": 0,
+        "energyLimit": 0,
+        "freeNetUsed": 258,
+        "totalNetWeight": 40818506346,
+        "freeNetPercentage": 0.172,
+        "energyPercentage": 0,
+        "totalNetLimit": 43200000000
+    },
+    "date_created": 1647528126000,
+    "accountType": 0,
+    "exchanges": [],
+    "frozen": {
+        "total": 0,
+        "balances": []
+    },
+    "accountResource": {
+        "frozen_balance_for_energy": {}
+    },
+    "transactions": 37,
+    "witness": 0,
+    "delegateFrozenForBandWidth": 0,
+    "name": "",
+    "frozenForEnergy": 0,
+    "acquiredDelegateFrozenForEnergy": 0,
+    "activePermissions": [
+        {
+            "operations": "7fff1fc0033e0300000000000000000000000000000000000000000000000000",
+            "keys": [
+                {
+                    "address": "TSrC6orpPbfFXdRH9nRPLQ8T6XaLxmV87W",
+                    "weight": 1
+                }
+            ],
+            "threshold": 1,
+            "id": 2,
+            "type": "Active",
+            "permission_name": "active"
+        }
+    ]
+}
